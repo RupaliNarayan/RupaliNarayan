@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<!--
-**RupaliNarayan/RupaliNarayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+
 
 -🔭 I’m currently working on improving my machine learning and data analysis skills by building projects and contributing to open-source.  
 -🌱 I’m currently learning  machine learning techniques and deep learning frameworks like TensorFlow.  
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -😄 Pronouns: She/her.  
 -⚡ Fun fact: I love finding hidden patterns in data and enjoy visualizing insights with creative data storytelling!  
 
--->
+
